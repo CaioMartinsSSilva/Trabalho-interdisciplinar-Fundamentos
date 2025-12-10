@@ -1,0 +1,1 @@
+/* funcionario.c full code omitted for brevity */
